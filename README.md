@@ -2,7 +2,7 @@
 # Agriculture Crop Production Prediction Using Machine Learning
 
 ## Author
-Thishan Kumar
+Thishan K
 
 ## Internship
 Data Science Internship
