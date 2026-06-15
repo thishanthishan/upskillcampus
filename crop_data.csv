@@ -1,0 +1,21 @@
+State,District,Season,Crop,Area,Production
+Tamil Nadu,Salem,Kharif,Rice,500,1200
+Tamil Nadu,Erode,Rabi,Wheat,350,850
+Tamil Nadu,Chennai,Summer,Maize,450,1000
+Tamil Nadu,Madurai,Kharif,Rice,550,1300
+Tamil Nadu,Trichy,Rabi,Wheat,400,950
+Karnataka,Mysore,Kharif,Rice,600,1400
+Karnataka,Bangalore,Rabi,Wheat,300,700
+Karnataka,Hubli,Summer,Maize,500,1100
+Andhra Pradesh,Guntur,Kharif,Maize,550,1300
+Andhra Pradesh,Vijayawada,Rabi,Rice,450,1000
+Kerala,Palakkad,Kharif,Rice,400,1000
+Kerala,Kochi,Rabi,Wheat,350,800
+Telangana,Hyderabad,Summer,Maize,450,1050
+Telangana,Warangal,Kharif,Rice,520,1250
+Maharashtra,Pune,Rabi,Wheat,430,980
+Maharashtra,Nagpur,Summer,Maize,510,1150
+Gujarat,Ahmedabad,Kharif,Rice,470,1080
+Gujarat,Surat,Rabi,Wheat,390,890
+Odisha,Cuttack,Kharif,Rice,540,1280
+Punjab,Amritsar,Rabi,Wheat,620,1500
